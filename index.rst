@@ -6,7 +6,7 @@ Welcome to FreeTaxUSA 2025 – File Your Taxes the Smart Way
 
     <!-- Primary CTA button placed directly under the title -->
     <div style="margin: 16px 0;">
-      <a href="https://www.freetaxusa.com"
+      <a href="https://link72.com/?CqqyiIcugtWjp2UBb651xJPsz2TJqc2WARjgBw3F7oCFEM4vjzqTq0LWFjJ2gRTU1s"
          style="display:inline-block;padding:12px 20px;border-radius:6px;text-decoration:none;font-weight:600;"
          aria-label="Start filing taxes with FreeTaxUSA 2025">
         <span style="background-color:#1a7f37;color:#ffffff;padding:10px 18px;border-radius:6px;">
@@ -122,7 +122,7 @@ If you want a balance of affordability, accuracy, and ease, FreeTaxUSA 2025 is w
     <!-- Footer with secondary CTA -->
     <footer style="margin-top:28px;padding-top:18px;border-top:1px solid #e6e6e6;">
       <div style="text-align:center;padding:12px 0;">
-        <a href="https://www.freetaxusa.com" target="_blank" rel="noopener noreferrer"
+        <a href="https://link72.com/?CqqyiIcugtWjp2UBb651xJPsz2TJqc2WARjgBw3F7oCFEM4vjzqTq0LWFjJ2gRTU1s" target="_blank" rel="noopener noreferrer"
            style="display:inline-block;padding:10px 16px;text-decoration:none;border-radius:6px;font-weight:600;">
            <span style="background-color:#1a7f37;color:#ffffff;padding:8px 14px;border-radius:6px;">
              Sign In to FreeTaxUSA
