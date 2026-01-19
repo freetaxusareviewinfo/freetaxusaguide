@@ -1,0 +1,19 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for FreeTaxUSA 2025 Guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <!-- Search Engine Verification -->
+    <meta name="google-site-verification" content="YOUR_GOOGLE_VERIFICATION_CODE" />
+    <meta name="msvalidate.01" content="YOUR_BING_VERIFICATION_CODE" />
+
+    <!-- Primary SEO Meta Tags -->
+    <meta name="description" content="FreeTaxUSA 2025 complete help guide. Learn how to file federal and state taxes online, pricing details, login steps, refunds, deductions, and FAQs using FreeTaxUSA for the 2025 tax season." />
+    <meta name="keywords" content="FreeTaxUSA 2025, FreeTaxUSA login, FreeTaxUSA tax filing, file taxes online 2025, FreeTaxUSA federal filing, FreeTaxUSA state filing, IRS e-file FreeTaxUSA, FreeTaxUSA review 2025" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Page Title (SEO Optimized) -->
+    <title>FreeTaxUSA 2025 – Complete Tax Filing Help, Login & Step-by-Step Guide</title>
+
+    {{ super() }}
+{% endblock %}
