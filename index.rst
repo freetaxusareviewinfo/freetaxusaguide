@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 
 Welcome to FreeTaxUSA 2025 – File Your Taxes the Smart Way
 =========================================================
